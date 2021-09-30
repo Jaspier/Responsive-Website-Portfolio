@@ -2,4 +2,4 @@
 
 ### Responsive Portfolio Website
 
-Responsive Portfolio Website Using Html, Css and JavaScript.
+Responsive Portfolio Website Using Html, CSS and JavaScript.
